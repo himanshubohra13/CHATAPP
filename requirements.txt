@@ -1,0 +1,14 @@
+pymilvus
+openpyxl
+langchain
+langchain-community
+transformers
+torch
+sentence-transformers
+uvicorn
+fastapi
+pydantic
+boto3
+openai
+python-dotenv
+ibm_watson_machine_learning
